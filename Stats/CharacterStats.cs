@@ -9,7 +9,7 @@ public class CharacterStats : MonoBehaviour {
     public Stat damage;
     public Stat armor;
 
-    [Header ("Unity stuff")]
+    [Header ("Health bars")]
     public Image healthBar;
     public Text healthText;
 
